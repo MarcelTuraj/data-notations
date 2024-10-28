@@ -1,0 +1,16 @@
+[
+    {
+        "from": "Szczecin Glowny",
+        "to" : "Krakow Glowny", 
+        "ticketprice": 120 ,
+        "date" : "12-04-2012",
+        "hour" : "12:34",
+        "distance": "400km",
+        "discount": false,
+        "stations": ["Szamotuly","Poznan Glowny","Trzebinia"
+
+        ]
+
+
+    }
+]
