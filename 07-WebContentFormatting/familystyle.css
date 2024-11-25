@@ -1,0 +1,14 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+input[type="submit"] {
+    background-color: blueviolet;
+    color: red;
+}
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: #f0f0f0;
+}
